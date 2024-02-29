@@ -106,7 +106,14 @@ and so on...
 ![image](https://github.com/Prithak8/HR_Employee_EDR_VIZ/assets/109690999/f3e293e1-4658-4aee-8e33-7b668d643997)
 
 
+### NOTE: Sub Datasets were created for each and every SQL query outputs for BI vizualization
 
+
+## PowerBI Visualizations:
+
+![HR_Employee_pg1](https://github.com/Prithak8/HR_Employee_EDR_VIZ/assets/109690999/4436ed22-b670-4227-80fa-ccb74819ae1c)
+
+![HR_Employee_pg2](https://github.com/Prithak8/HR_Employee_EDR_VIZ/assets/109690999/035e42d9-85bf-4242-9363-ddaf6da461df)
 
 
 ## Insights
