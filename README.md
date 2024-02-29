@@ -77,6 +77,7 @@ Data Visualization: PowerBI
 6.	How does the gender distribution vary across departments and job titles?
 
 ![image](https://github.com/Prithak8/HR_Employee_EDR_VIZ/assets/109690999/f62c2039-a2ca-45ad-8c7d-033ae796da46)
+
 ![image](https://github.com/Prithak8/HR_Employee_EDR_VIZ/assets/109690999/69695fea-1bd2-41f6-af86-e3b61a29deb3)
 
 7.	What is the distribution of job titles across the company?
@@ -136,8 +137,7 @@ and so on...
 
 
 
-Note: While doing this project there were some ambiguous data such as ages being in negative. In order to tackle this problem every query has been written such that the age of the employee is over 18 years
-One can completely truncate the date tuples with ambiguous or impossible data but the author took care of it in the queries itself.
+### Note: While doing this project there were some ambiguous data such as ages being in negative. In order to tackle this problem every query has been written such that the age of the employee is over 18 years One can completely truncate the date tuples with ambiguous or impossible data but the author took care of it in the queries itself.
 
 
 
