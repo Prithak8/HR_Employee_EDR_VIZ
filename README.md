@@ -1,4 +1,4 @@
-# HR_Employee_EDA_VIZ
+ # HR_Employee_EDA_VIZ
 
 
 ## This is a MYSQL and Power BI project designated to answer important question for Humnan Resource person about the company Employees.
